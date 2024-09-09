@@ -53,7 +53,6 @@
         </div>
         <input type="submit" value="Add To Do"/>
       </form>
-
     </section>
 
     <section class="todo-list">
